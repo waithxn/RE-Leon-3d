@@ -1,2 +1,1 @@
-# RE-Leon-3d
-A 3d model I made in maya
+![](https://github-production-user-asset-6210df.s3.amazonaws.com/181008917/426147388-f6ef3a99-8ff7-4bbc-a7ff-1b813e770111.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250324%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250324T152601Z&X-Amz-Expires=300&X-Amz-Signature=f2503500b4bb8b84d447a888c640bf30d2dbf3f813b8feb708c192ebc45837a0&X-Amz-SignedHeaders=host)
